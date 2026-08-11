@@ -9,7 +9,7 @@
 3. 页面已填写支持邮箱与生效日期，发布前按需复核。
 4. 在仓库 **Settings → Pages** 中选择：**Deploy from a branch**、`main`、`/(root)`，保存。
 5. 等待 GitHub 发布后，填写 App Store Connect：
-   - Support URL：`https://onvno.github.io/muyu-site/`
-   - Privacy Policy URL：`https://onvno.github.io/muyu-site/privacy.html`
+   - Support URL：`https://ficp.fun/s/4Kjt5Q`
+   - Privacy Policy URL：`https://ficp.fun/s/4Kjt5Q/privacy.html`
 
 GitHub Pages 是静态网站托管；本模板没有统计代码、Cookie 或第三方资源。
